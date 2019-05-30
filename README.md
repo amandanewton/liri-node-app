@@ -1,21 +1,21 @@
 # liri-node-app
 
-**Creator**: `Amanda Newton`
+**Creator**: Amanda Newton
 
-**Created on**: `June 4th 2019`
+**Created on**: June 4th 2019
 
 - - -
 
 ## ABOUT THE APP
-LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data. Using LIRI you have option of using four commands. The  `Commands` are:
+LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data. Using LIRI you have option of using four commands. The  Commands are:
 
-   * `concert-this`
+   * concert-this
 
-   * `spotify-this-song`
+   * spotify-this-song
 
-   * `movie-this`
+   * movie-this
 
-   * `do-what-it-says`
+   * do-what-it-says
 
 - - -
 ## HOW TO USE LIRI
